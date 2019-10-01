@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[page]]></title>
+    <url>%2F2019%2F10%2F01%2Fpage%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[这是一个测试]]></title>
     <url>%2F2019%2F10%2F01%2Ffirst%2F</url>
     <content type="text"><![CDATA[welcome to my blog]]></content>
